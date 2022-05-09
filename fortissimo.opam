@@ -1,0 +1,11 @@
+opam-version: "2.0.5"
+synopsis: "A gradually typed web procedural web language"
+version: "0.1"
+maintainer: "johng.kathe@gmail.com"
+authors: ["John G. Kathe"]
+homepage: "https://github.com/johngkathe/FFLang"
+bug-reports: "https://github.com/johngkathe/FFLang/issues"
+dev-repo: "git+https://github.com/johngkathe/FFLang.git"
+build: [
+    ["dune" "build" "-p" name "-j" jobs]
+]
