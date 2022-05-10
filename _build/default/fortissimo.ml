@@ -1,1 +1,1 @@
-print_newline "Hello, world!";;
+let () = print_endline "Hello, world!"

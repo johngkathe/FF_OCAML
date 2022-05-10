@@ -1,0 +1,5 @@
+lib: [
+  "_build/install/default/lib/fortissimo/META"
+  "_build/install/default/lib/fortissimo/dune-package"
+  "_build/install/default/lib/fortissimo/opam"
+]
